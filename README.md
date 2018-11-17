@@ -5,17 +5,18 @@ This app in built on Flask, the dependencies have been put in place by employing
 
 You may need python3 in order to access some of the end points, therefore it is recommended to completely employ 3.+
 
-In order to get things working, you may need to install the dependencies by running the following(the dependencies are in the pipfile.lock, worry less).
-
-```
-pipenv install
-```
-
-once all is well, you will need to give the permission to excecute the `bootstrap.sh` file as that is what forms the launching base.
+In order to get things started, you will need to give the permission to excecute the `bootstrap.sh` file as that is what forms the launching base.
 
 ```chmod +x bootstrap.sh```
 
 here, you might need to use `sudo` aka superuser do.
+
+In order to get things working,the environment would be activated but `bootstrap.sh` file ,you may need to install the dependencies by running the following(the dependencies are in the pipfile.lock, worry less).
+
+
+```
+pipenv install
+```
 
 
 ## Usage
