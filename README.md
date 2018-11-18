@@ -11,7 +11,11 @@ In order to get things started, you will need to give the permission to excecute
 
 here, you might need to use `sudo` aka superuser do.
 
-In order to get things working,the environment would be activated but `bootstrap.sh` file ,you may need to install the dependencies by running the following(the dependencies are in the pipfile.lock, worry less).
+In order to get things working,the environment would be activated by `bootstrap.sh` file , So go ahead and run:
+
+```./bootstrap.sh```
+
+you will need to install the dependencies by running the following(the dependencies are in the pipfile.lock, worry less).
 
 
 ```
